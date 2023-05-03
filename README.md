@@ -33,11 +33,8 @@ Our model achieved an accuracy score of 0.96 on a held-out test set, meaning it 
 
 Overall, our model's success in classifying news articles as real or fake demonstrates the potential for machine learning algorithms to assist in identifying and combating the spread of misinformation and fake news online.
 
-Metric	Scores:
-Accuracy	0.964
-Precision	0.970
-Recall	0.964
-F1 Score	0.967
+
+Accuracy	0.964![Scores](https://user-images.githubusercontent.com/80132877/235819319-e7e799d0-9c4b-4f40-b13e-0fe7f94e3d93.png)
 
 ![Confusion_Matrix](https://user-images.githubusercontent.com/80132877/235818579-100e93bd-2b4d-46d9-8286-eef6510ac5d5.png)
 
